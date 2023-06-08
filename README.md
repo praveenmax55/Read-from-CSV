@@ -34,8 +34,7 @@ print("Row",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-!(output)
-
+![output](./
 
 ## RESULT:
 Thus the program written to read csv file.
