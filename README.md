@@ -34,7 +34,7 @@ print("Row",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![output]![Uploading csv.png…]()
+![Uploading csv.png…]()
 
 
 ## RESULT:
